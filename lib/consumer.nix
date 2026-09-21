@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 #
 # mkConsumerModule — the CONSUMER side of the app grammar, published once.
 #

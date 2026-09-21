@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # Reads the consumer factory's promises back off the RENDERED BYTES.
 #
 # The factory is now the most load-bearing code in this family: fourteen repositories' worth of

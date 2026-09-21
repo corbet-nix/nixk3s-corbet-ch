@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 #
 # A catalogue that exists to be AWKWARD, on purpose.
 #

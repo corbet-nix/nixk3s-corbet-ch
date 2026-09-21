@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 {
   description = "nixk3s - bare-metal k3s on NixOS with a declarative nixidy + Argo CD GitOps spine";
 

@@ -11,7 +11,7 @@ none of them was checked.
 ## Two shapes, and only one of them is easy to find
 
 A sibling repository had already found the message-only shape and written it up as
-[*an option nothing renders is never checked*](https://github.com/julian-corbet/nixwatch-corbet-ch/blob/main/studies/an-option-nothing-renders-is-never-checked.md):
+[*an option nothing renders is never checked*](https://github.com/corbet-nix/nixwatch-corbet-ch/blob/main/studies/an-option-nothing-renders-is-never-checked.md):
 the module system keeps only the FAILING assertions and formats those, so a value mentioned solely
 inside an assertion message is never evaluated, and *you cannot force a value by mentioning it in a
 message*. That is true, it is the reason this repository's `addressing` module carries a comment

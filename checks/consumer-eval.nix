@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # Proves the consumer factory REFUSES what it claims to refuse, through the real renderer and the
 # real app grammar.
 #

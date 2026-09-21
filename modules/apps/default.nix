@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # nixk3s.apps — the app grammar: a shared vocabulary for declaring WHAT AN APP
 # NEEDS, from which this module renders the Kubernetes objects.
 #

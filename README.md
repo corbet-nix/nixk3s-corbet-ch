@@ -133,13 +133,13 @@ which is deliberate — it exists to type-check a module, not to describe hardwa
 
 ## Related projects
 
-- [nixgpu](https://github.com/julian-corbet/nixgpu-corbet-ch) — priority-based
+- [nixgpu](https://github.com/corbet-nix/nixgpu-corbet-ch) — priority-based
   single-GPU sharing built on this spine.
-- [nixllm](https://github.com/julian-corbet/nixllm-corbet-ch) — the shared
+- [nixllm](https://github.com/corbet-nix/nixllm-corbet-ch) — the shared
   LLM serving lane running on that substrate.
-- [nixapps](https://github.com/julian-corbet/nixapps-corbet-ch) — curated
+- [nixapps](https://github.com/corbet-nix/nixapps-corbet-ch) — curated
   nixidy app modules that deploy onto it.
 
-## License
+## Licence
 
-[MIT License](LICENSE) &copy; 2026 Julian Corbet
+Outbound licence is `MIT OR Apache-2.0`. See `LICENSE-MIT` and `LICENSE-APACHE`; every source file carries `SPDX-License-Identifier: MIT OR Apache-2.0`.

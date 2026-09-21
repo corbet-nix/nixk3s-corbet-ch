@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # Proves the grammar fails CLOSED: every guard in `nixk3s.apps` is checked in
 # the failing direction, because a guard nobody has seen fire is a comment.
 #

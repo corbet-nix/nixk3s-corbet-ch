@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 #
 # The cockpit catalogue: what the platform's own faces ARE.
 #

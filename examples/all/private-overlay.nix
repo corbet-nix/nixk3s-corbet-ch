@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # What a PRIVATE module looks like on top of the public app grammar — the first
 # and preferred of the two ways out of the vocabulary.
 #

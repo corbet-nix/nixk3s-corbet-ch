@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # nixk3s.addressing — the band model: which slots a declaring repository's apps
 # are allowed to occupy, and a guard that refuses everything outside them.
 #

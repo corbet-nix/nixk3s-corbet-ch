@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # nixk3s.tenancy — the Argo CD AppProject tenancy model.
 #
 # One nixidy Application renders every AppProject, plus any namespaces a project chooses

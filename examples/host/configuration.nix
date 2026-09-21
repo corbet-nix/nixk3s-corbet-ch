@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # The smallest NixOS configuration that lets `nixk3s.host` be evaluated as part
 # of a real system, used by the `host-module-evaluates` check.
 #

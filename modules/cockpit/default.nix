@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # nixk3s.cockpit — the platform's own faces: declare which of them run in the cluster, and render
 # them through the app grammar.
 #

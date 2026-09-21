@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # Proves the band model in BOTH directions, because a guard nobody has watched
 # fire is a comment, and a guard that fires on everything is a wall.
 #

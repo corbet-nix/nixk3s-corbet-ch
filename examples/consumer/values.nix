@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 #
 # Two declarations against the awkward catalogue, written to make every half of the split visible
 # in a rendered manifest.

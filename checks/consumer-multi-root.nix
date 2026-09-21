@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT OR Apache-2.0
 # The consumer factory's second shape: several user-facing roots over several catalogues, with the
 # rendering kind read from each selected entry. This is the shape needed by database and CI
 # catalogues, where one root may contain both typed workloads and opaque/custom resources.
